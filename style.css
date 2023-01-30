@@ -1,0 +1,13 @@
+*,chess{
+padding:0;
+margin:0;
+background-color:lightgray;
+}
+.square {
+    background:#000;
+    display:inline-block;
+    border:1px solid #fff;
+    text-align:center;
+    position: absolute;
+    cursor: pointer;
+}
